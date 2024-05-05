@@ -1,4 +1,4 @@
-package com.fastcampus.fastcampusprojectboard.domain;
+package com.fastcampus.projectboard.domain;
 
 import static com.querydsl.core.types.PathMetadataFactory.*;
 
